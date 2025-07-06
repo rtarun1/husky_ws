@@ -7,3 +7,6 @@
 [submodule "dependencies/visualnav-transformer"]
 	path = dependencies/visualnav-transformer
 	url = https://github.com/rtarun1/visualnav-transformer.git
+[submodule "dependencies/kiss-mpc"]
+	path = dependencies/kiss-mpc
+	url = https://github.com/rtarun1/kiss-mpc.git
