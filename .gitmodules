@@ -4,3 +4,6 @@
 [submodule "dependencies/livox_ros_driver2"]
 	path = dependencies/livox_ros_driver2
 	url = https://github.com/rtarun1/livox_ros_driver2.git
+[submodule "dependencies/visualnav-transformer"]
+	path = dependencies/visualnav-transformer
+	url = https://github.com/rtarun1/visualnav-transformer.git
